@@ -30,11 +30,17 @@ javac -version
 Jika muncul versi Java (misalnya `javac 21`), JDK siap dipakai.
 
 ### Langkah-langkah
-1. Unduh atau clone repositori ini, lalu simpan semua file `.java` dalam satu folder.
-2. Buka terminal (Command Prompt, PowerShell, atau Terminal), lalu masuk ke folder tersebut:
+1. Ambil kode dari repositori, pilih salah satu:
+   - **Clone dengan Git:**
+     ```bash
+     git clone https://github.com/IrsyadPSM/Irsyad_Palupi_Sidqi_Musdiarto_H1D025028_Shift_A_Shift_B_Paket_5.git
+     ```
+   - **Atau Download ZIP:** klik tombol **Code**, pilih **Download ZIP**, lalu ekstrak.
+2. Buka terminal (Command Prompt, PowerShell, atau Terminal), lalu masuk ke folder yang berisi file `.java`:
    ```bash
-      cd Irsyad_Palupi_Sidqi_Musdiarto_H1D025028_Shift_A_Shift_B_Paket_5
+   cd Irsyad_Palupi_Sidqi_Musdiarto_H1D025028_Shift_A_Shift_B_Paket_5
    ```
+   Jika memakai Download ZIP, nama foldernya berakhiran `-main`, sesuaikan nama foldernya.
 3. Compile semua file Java:
    ```bash
    javac *.java
