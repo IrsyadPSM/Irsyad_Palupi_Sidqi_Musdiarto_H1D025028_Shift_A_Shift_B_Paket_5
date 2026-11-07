@@ -33,7 +33,7 @@ Jika muncul versi Java (misalnya `javac 21`), JDK siap dipakai.
 1. Unduh atau clone repositori ini, lalu simpan semua file `.java` dalam satu folder.
 2. Buka terminal (Command Prompt, PowerShell, atau Terminal), lalu masuk ke folder tersebut:
    ```bash
-   cd path/ke/folder/responsi-pbo-otomotif
+      cd Irsyad_Palupi_Sidqi_Musdiarto_H1D025028_Shift_A_Shift_B_Paket_5
    ```
 3. Compile semua file Java:
    ```bash
